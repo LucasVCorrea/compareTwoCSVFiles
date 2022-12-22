@@ -1,0 +1,3 @@
+108664,correa,10 
+105321,ramirez,20 
+143256,sanchex,30 
